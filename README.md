@@ -1,5 +1,5 @@
 Catch the Light Game
-Description: A new speed and reflex game. Quickly press the lit buttons in a certain amount of time in this fast-paced game.
+Description: A new speed and reflex game. Quickly press the lit buttons in a certain amount of time.
 Prices
 (1) 16x2 Character LCD Display    Part#: LCM1602K-FSW-FBW-33V33
 1+    US$3.496667
